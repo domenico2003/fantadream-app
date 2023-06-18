@@ -1,0 +1,49 @@
+body {
+  background-color: #bebebe42;
+}
+.text-shadow {
+  text-shadow: 3px 3px 4px rgb(13, 110, 253);
+}
+
+.portieri {
+  border-radius: 100%;
+  border: 1px solid darkgreen;
+  background-color: lightgreen;
+  padding-inline: 6px;
+  padding-block: 1px;
+}
+
+.centrocampisti {
+  border-radius: 100%;
+  border: 1px solid darkorange;
+  background-color: yellow;
+  padding-inline: 6px;
+  padding-block: 1px;
+}
+
+.difensori {
+  border-radius: 100%;
+  border: 1px solid darkblue;
+  background-color: lightblue;
+  padding-inline: 6px;
+  padding-block: 1px;
+}
+
+.attaccanti {
+  border-radius: 100%;
+  border: 1px solid darkred;
+  background-color: rgb(255, 162, 0);
+  padding-inline: 6px;
+  padding-block: 1px;
+}
+
+.point {
+  cursor: pointer;
+}
+
+.transazione {
+  transition: transform 0.3s ease;
+}
+.transazione:hover {
+  transform: scale(1.1);
+}
