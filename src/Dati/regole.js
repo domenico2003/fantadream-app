@@ -36,8 +36,4 @@ export let regole = [
     titolo: "Budget",
     messaggio: "per l'asta iniziale il budget è di 600 crediti",
   },
-  {
-    titolo: "Budget",
-    messaggio: "per l'asta iniziale il budget è di 600 crediti",
-  },
 ];
