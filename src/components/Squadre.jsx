@@ -14,7 +14,7 @@ const Squadre = () => {
             <p style={{ color: "red" }} className="fs-3 fw-bold mb-0">
               Crediti
             </p>
-            <p className="d-block fw-bold fs-4">800</p>
+            <p className="d-block fw-bold fs-4">600</p>
           </Col>
           <Col xs={12} sm={6} className="d-flex flex-column align-items-center">
             <p style={{ color: "blue" }} className="fs-3 fw-bold mb-0">
@@ -36,7 +36,7 @@ const Squadre = () => {
             <p style={{ color: "red" }} className="fs-3 fw-bold mb-0">
               portieri
             </p>
-            <p className="d-block fw-bold fs-4">4</p>
+            <p className="d-block fw-bold fs-4">3</p>
           </Col>
           <Col
             xs={12}
